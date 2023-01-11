@@ -3,10 +3,12 @@ Steps to run app locally:
     ii. Go to the project folder.
     iii.Run the commands in the following order:
         1.cd server/
-        2.npm start
+        2.npm install
+        3.npm start
     iv. Open another terminal and run commands in the following order:
         1.cd client/
-        2. npm start
+        2.npm install
+        3. npm start
 
     The project will now be running locally(most likely on localhost:3000)
 
